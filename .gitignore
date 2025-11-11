@@ -2,3 +2,27 @@
 .Rhistory
 .RData
 .Ruserdata
+data/learn to download/SST raw/oisst-avhrr-v02r01.20240101.nc
+data/learn to download/SST raw/oisst-avhrr-v02r01.20240102.nc
+data/learn to download/SST raw/oisst-avhrr-v02r01.20240103.nc
+data/learn to download/SST raw/oisst-avhrr-v02r01.20240104.nc
+data/learn to download/SST raw/oisst-avhrr-v02r01.20240105.nc
+data/learn to download/SST raw/oisst-avhrr-v02r01.20240106.nc
+data/learn to download/SST test/20240101
+data/learn to download/SST test/20240201
+data/QGIS baselayers/.DS_Store
+data/QGIS baselayers/add_coastline_high_res_polygon_v7.2.cpg
+data/QGIS baselayers/add_coastline_high_res_polygon_v7.2.dbf
+data/QGIS baselayers/add_coastline_high_res_polygon_v7.2.prj
+data/QGIS baselayers/add_coastline_high_res_polygon_v7.2.qpj
+data/QGIS baselayers/add_coastline_high_res_polygon_v7.2.shp
+data/QGIS baselayers/add_coastline_high_res_polygon_v7.2.shx
+data/QGIS baselayers/bathy.nc
+data/QGIS baselayers/IBCSO_v2_bed.nc
+data/QGIS baselayers/IBCSO_v2_bed.nc.aux.xml
+data/QGIS baselayers/SST raw/.DS_Store
+data/QGIS baselayers/SST raw/oisst-avhrr-v02r01.20240101.nc
+data/QGIS baselayers/SST raw/oisst-avhrr-v02r01.20240102.nc
+data/QGIS baselayers/SST raw/oisst-avhrr-v02r01.20240103.nc
+data/QGIS baselayers/SST raw/oisst-avhrr-v02r01.20240104.nc
+data/QGIS baselayers/SST raw/oisst-avhrr-v02r01.20240105.nc
