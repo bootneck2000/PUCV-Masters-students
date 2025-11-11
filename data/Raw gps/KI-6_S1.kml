@@ -1,0 +1,2205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+
+	<Document>
+		<name>KI-6_S1</name>
+		<open>1</open>
+
+		<Style id="style_line">
+			<LineStyle>
+				<color>730000FF</color>
+				<width>2</width>
+			</LineStyle>
+		</Style>
+		
+		<Style id="START">
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/arrow-reverse.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<color>FFFFFFFF</color>
+				<scale>1</scale>
+			</LabelStyle>
+		</Style>
+		
+		<Style id="STOP">
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<color>FFFFFFFF</color>
+				<scale>1</scale>
+			</LabelStyle>
+		</Style>
+
+		<Style id="classeFIXONDEMAND">
+			<IconStyle>
+				<Icon>
+					<href>http://www.technosmart.eu/KML_icons/orangestar_Large.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<color>FFFFFFFF</color>
+				<scale>1</scale>
+			</LabelStyle>
+		</Style>
+
+		<Style id="classe1">
+			<IconStyle>
+				<Icon>
+					<href>http://www.technosmart.eu/KML_icons/0_9_Large.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0</scale>
+			</LabelStyle>
+		</Style>
+
+		<Style id="classe2">
+			<IconStyle>
+				<Icon>
+					<href>http://www.technosmart.eu/KML_icons/10_19_Large.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0</scale>
+			</LabelStyle>
+		</Style>
+
+		<Style id="classe3">
+			<IconStyle>
+				<Icon>
+					<href>http://www.technosmart.eu/KML_icons/20_29_Large.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0</scale>
+			</LabelStyle>
+		</Style>
+
+		<Style id="classe4">
+			<IconStyle>
+				<Icon>
+					<href>http://www.technosmart.eu/KML_icons/30_39_Large.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0</scale>
+			</LabelStyle>
+		</Style>
+
+		<Style id="classe5">
+			<IconStyle>
+				<Icon>
+					<href>http://www.technosmart.eu/KML_icons/40_49_Large.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0</scale>
+			</LabelStyle>
+		</Style>
+
+		<Style id="classe6">
+			<IconStyle>
+				<Icon>
+					<href>http://www.technosmart.eu/KML_icons/50_59_Large.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0</scale>
+			</LabelStyle>
+		</Style>
+
+		<Style id="classe7">
+			<IconStyle>
+				<Icon>
+					<href>http://www.technosmart.eu/KML_icons/60_69_Large.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0</scale>
+			</LabelStyle>
+		</Style>
+
+		<Style id="classe8">
+			<IconStyle>
+				<Icon>
+					<href>http://www.technosmart.eu/KML_icons/70_79_Large.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0</scale>
+			</LabelStyle>
+		</Style>
+
+		<Style id="classe9">
+			<IconStyle>
+				<Icon>
+					<href>http://www.technosmart.eu/KML_icons/80_Large.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<color>00000000</color>
+				<scale>0</scale>
+			</LabelStyle>
+		</Style>
+		<LookAt>
+			<longitude>-60.719348</longitude>
+			<latitude>-62.991558</latitude>
+			<altitude>0036.0</altitude>
+			<heading>0</heading>
+			<range>1000</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>		<Placemark>
+			<name>START</name>
+			<styleUrl>#START</styleUrl>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+					+<coordinates>-60.719348,-62.991558,0036.0</coordinates>
+			</Point>
+		</Placemark>
+		<Folder>
+			<name>Placemarks</name>
+			<Placemark>
+				<name>14/01/2024 23:15:32</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>72</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.719348,-62.991558,0036.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15/01/2024 00:55:12</name>
+				<styleUrl>#classe2</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>92</value>
+					</Data>
+					<Data name="Speed">
+						<value>14.816</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.719112,-62.991563,0046.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15/01/2024 16:56:14</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>72</value>
+					</Data>
+					<Data name="Speed">
+						<value>3.704</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.720091,-62.991413,0036.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15/01/2024 17:00:07</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>82</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.719134,-62.991645,0041.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15/01/2024 18:30:37</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>66</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.719232,-62.991611,0033.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15/01/2024 18:45:38</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>156</value>
+					</Data>
+					<Data name="Speed">
+						<value>7.408</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.719161,-62.991782,0078.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15/01/2024 20:00:37</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>70</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.719353,-62.991587,0035.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15/01/2024 20:30:33</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>82</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.719364,-62.991497,0041.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15/01/2024 20:45:33</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>68</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.719290,-62.991547,0034.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15/01/2024 21:25:33</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>68</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.719310,-62.991570,0034.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15/01/2024 21:51:03</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>72</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.719304,-62.991564,0036.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15/01/2024 21:55:04</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>40</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.719443,-62.991585,0020.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15/01/2024 22:20:12</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>46</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.719357,-62.991565,0023.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>15/01/2024 22:45:40</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>76</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.719446,-62.991534,0038.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>16/01/2024 10:28:13</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>26</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.724166,-62.993705,0013.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>16/01/2024 15:16:56</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>10</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.972814,-62.916169,0005.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>16/01/2024 15:20:04</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>12</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.971182,-62.916881,0006.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>16/01/2024 15:25:04</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>38</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.969321,-62.916129,0019.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>16/01/2024 15:30:05</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>10</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.964163,-62.917921,0005.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>16/01/2024 15:45:47</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>20</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.952293,-62.924496,-0010.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>16/01/2024 16:24:00</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>0</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.948263,-62.929955,0000.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>16/01/2024 16:38:33</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>2</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.943276,-62.935169,-0001.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>16/01/2024 16:50:15</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>6</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.935175,-62.938466,0003.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>16/01/2024 17:12:16</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>0</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.927402,-62.947421,0000.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>16/01/2024 17:15:05</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>2</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.927203,-62.948444,-0001.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>16/01/2024 17:30:28</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>2</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.926909,-62.955186,0001.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>16/01/2024 17:51:48</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>4</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.923074,-62.963414,0002.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>17/01/2024 23:13:50</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>72</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.720466,-62.990187,0036.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>17/01/2024 23:15:05</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>66</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.719797,-62.990378,0033.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>17/01/2024 23:20:05</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>58</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.720440,-62.991292,0029.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>17/01/2024 23:25:15</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>30</value>
+					</Data>
+					<Data name="Speed">
+						<value>7.408</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.718428,-62.991752,0015.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>17/01/2024 23:30:08</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>66</value>
+					</Data>
+					<Data name="Speed">
+						<value>3.704</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.719125,-62.991574,0033.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>17/01/2024 23:40:33</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>54</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.719215,-62.991581,0027.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>17/01/2024 23:55:09</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>56</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.719042,-62.991553,0028.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>18/01/2024 00:55:17</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>36</value>
+					</Data>
+					<Data name="Speed">
+						<value>3.704</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.719352,-62.991519,0018.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>18/01/2024 17:33:30</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>10</value>
+					</Data>
+					<Data name="Speed">
+						<value>3.704</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.921301,-62.997175,0005.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>18/01/2024 17:48:35</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>16</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.921190,-62.997117,0008.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>18/01/2024 17:50:04</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>6</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.920723,-62.997390,0003.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>18/01/2024 22:08:16</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>80</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.720328,-62.990736,0040.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>18/01/2024 22:10:05</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>80</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.720362,-62.991077,0040.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>18/01/2024 22:15:03</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>28</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.719298,-62.991477,0014.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>18/01/2024 22:20:03</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>58</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.719355,-62.991538,0029.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>18/01/2024 22:25:03</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>50</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.719071,-62.991514,0025.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19/01/2024 14:34:17</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>66</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.720899,-62.993092,0033.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19/01/2024 14:35:04</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>46</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.721441,-62.993122,0023.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19/01/2024 14:40:04</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>52</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.723384,-62.993839,0026.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19/01/2024 15:02:08</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>6</value>
+					</Data>
+					<Data name="Speed">
+						<value>7.408</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.753227,-62.992720,-0003.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19/01/2024 15:05:07</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>8</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.755503,-62.992718,0004.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19/01/2024 15:10:10</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>4</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.765213,-62.991769,-0002.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19/01/2024 15:43:29</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>14</value>
+					</Data>
+					<Data name="Speed">
+						<value>3.704</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.806723,-62.977017,0007.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19/01/2024 15:45:07</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>46</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.807998,-62.976838,0023.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19/01/2024 15:50:06</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>0</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.810610,-62.975742,0000.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19/01/2024 15:55:05</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>8</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.812984,-62.975078,-0004.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19/01/2024 16:00:07</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>92</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.815214,-62.974724,0046.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19/01/2024 16:05:07</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>48</value>
+					</Data>
+					<Data name="Speed">
+						<value>3.704</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.816241,-62.974919,0024.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19/01/2024 16:10:30</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>0</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.819510,-62.974225,0000.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19/01/2024 16:15:05</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>4</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.818716,-62.973687,0002.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19/01/2024 16:27:10</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>4</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.813020,-62.975681,0002.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19/01/2024 16:30:05</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>0</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.811420,-62.976155,-0000.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19/01/2024 16:35:08</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>12</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.809579,-62.976650,-0006.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19/01/2024 16:43:22</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>0</value>
+					</Data>
+					<Data name="Speed">
+						<value>3.704</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.804840,-62.978391,-0000.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19/01/2024 17:02:40</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>8</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.813003,-62.982220,0004.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19/01/2024 17:05:04</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>10</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.814597,-62.982203,0005.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19/01/2024 17:16:56</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>6</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.815019,-62.982279,0003.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19/01/2024 17:20:04</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>48</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.815326,-62.982733,0024.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19/01/2024 17:35:22</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>2</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.814410,-62.985409,0001.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19/01/2024 17:53:28</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>10</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.809021,-62.987224,-0005.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19/01/2024 18:02:06</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>4</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.808370,-62.988359,0002.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19/01/2024 18:05:03</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>8</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.807501,-62.988620,-0004.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19/01/2024 18:10:05</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>2</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.806426,-62.988365,0001.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19/01/2024 18:18:29</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>20</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.809620,-62.987767,-0010.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19/01/2024 18:30:04</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>20</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.808128,-62.989031,-0010.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19/01/2024 18:45:22</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>26</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.799917,-62.988620,-0013.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19/01/2024 19:07:13</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>34</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.796945,-62.988348,0017.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19/01/2024 19:13:35</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>38</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.799050,-62.988388,-0019.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19/01/2024 19:18:13</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>6</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.797393,-62.988371,0003.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19/01/2024 19:23:24</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>12</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.798094,-62.987880,-0006.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19/01/2024 19:35:18</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>20</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.791646,-62.988654,0010.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19/01/2024 21:58:42</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>66</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.722119,-62.989897,0033.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19/01/2024 22:00:05</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>46</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.722153,-62.989935,0023.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19/01/2024 22:05:05</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>62</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.720733,-62.990247,0031.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19/01/2024 22:10:05</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>6</value>
+					</Data>
+					<Data name="Speed">
+						<value>3.704</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.719311,-62.991250,0003.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19/01/2024 22:15:03</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>90</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.719805,-62.991445,0045.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19/01/2024 22:41:25</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>74</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.719490,-62.991568,0037.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19/01/2024 22:45:09</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>76</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.719363,-62.991570,0038.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>19/01/2024 23:10:10</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>128</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.720114,-62.991149,0064.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20/01/2024 15:45:55</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>6</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.807390,-62.963437,-0003.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20/01/2024 15:53:23</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>2</value>
+					</Data>
+					<Data name="Speed">
+						<value>3.704</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.805982,-62.961879,-0001.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20/01/2024 15:58:45</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>6</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.806042,-62.962856,-0003.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20/01/2024 16:06:40</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>2</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.807318,-62.963992,0001.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20/01/2024 16:20:06</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>0</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.802423,-62.964504,0000.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20/01/2024 16:25:07</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>8</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.805089,-62.965156,-0004.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20/01/2024 16:30:03</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>22</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.806470,-62.966045,-0011.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20/01/2024 16:35:04</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>4</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.807513,-62.967137,-0002.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20/01/2024 16:50:25</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>0</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.807531,-62.969292,0000.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20/01/2024 16:58:22</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>2</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.806092,-62.969892,0001.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20/01/2024 17:06:38</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>12</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.804886,-62.970553,-0006.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20/01/2024 17:23:27</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>14</value>
+					</Data>
+					<Data name="Speed">
+						<value>3.704</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.803305,-62.971418,-0007.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20/01/2024 17:35:06</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>0</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.806305,-62.972922,-0000.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20/01/2024 17:43:14</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>6</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.806107,-62.973605,0003.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20/01/2024 17:45:03</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>16</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.805416,-62.974005,0008.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20/01/2024 17:50:03</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>0</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.804100,-62.974198,0000.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20/01/2024 17:58:19</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>6</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.803529,-62.974714,-0003.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20/01/2024 18:03:34</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>4</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.804146,-62.975533,0002.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20/01/2024 19:26:08</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>22</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.725862,-62.990164,-0011.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20/01/2024 19:30:06</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>92</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.725509,-62.989998,-0046.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20/01/2024 19:35:09</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>14</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.726299,-62.990180,0007.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20/01/2024 19:40:08</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>72</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.724916,-62.990112,-0036.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20/01/2024 19:45:08</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>44</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.725918,-62.990288,0022.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20/01/2024 19:50:05</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>38</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.724528,-62.990095,0019.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20/01/2024 19:55:06</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>8</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.722101,-62.990086,-0004.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20/01/2024 20:00:41</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>42</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.721755,-62.989988,0021.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20/01/2024 20:05:45</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>40</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.720095,-62.990249,0020.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20/01/2024 20:10:35</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>66</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.720426,-62.990806,0033.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20/01/2024 20:15:05</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>132</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.720524,-62.991366,0066.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20/01/2024 20:20:04</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>16</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.718657,-62.991624,0008.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20/01/2024 20:30:06</name>
+				<styleUrl>#classe2</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>26</value>
+					</Data>
+					<Data name="Speed">
+						<value>14.816</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.718319,-62.991637,-0013.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20/01/2024 21:36:08</name>
+				<styleUrl>#classe1</styleUrl>
+				<ExtendedData>
+					<Data name="Altitude">
+						<value>78</value>
+					</Data>
+					<Data name="Speed">
+						<value>0</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<altitudeMode>absolute</altitudeMode>
+					+<coordinates>-60.719242,-62.991547,0039.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Placemark>
+			<name>STOP</name>
+			<styleUrl>#STOP</styleUrl>
+			<Point>
+				<altitudeMode>clampToGround</altitudeMode>
+					+<coordinates>-60.719242,-62.991547,0039.0</coordinates>
+			</Point>
+		</Placemark>
+		<Folder>
+			<name>Path</name>
+			<Placemark>
+				<name>Path</name>
+				<styleUrl>#style_line</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<altitudeMode>clampToGround</altitudeMode>
+					<coordinates>
+					-60.719348,-62.991558,0036.0
+					-60.719112,-62.991563,0046.0
+					-60.720091,-62.991413,0036.0
+					-60.719134,-62.991645,0041.0
+					-60.719232,-62.991611,0033.0
+					-60.719161,-62.991782,0078.0
+					-60.719353,-62.991587,0035.0
+					-60.719364,-62.991497,0041.0
+					-60.719290,-62.991547,0034.0
+					-60.719310,-62.991570,0034.0
+					-60.719304,-62.991564,0036.0
+					-60.719443,-62.991585,0020.0
+					-60.719357,-62.991565,0023.0
+					-60.719446,-62.991534,0038.0
+					-60.724166,-62.993705,0013.0
+					-60.972814,-62.916169,0005.0
+					-60.971182,-62.916881,0006.0
+					-60.969321,-62.916129,0019.0
+					-60.964163,-62.917921,0005.0
+					-60.952293,-62.924496,-0010.0
+					-60.948263,-62.929955,0000.0
+					-60.943276,-62.935169,-0001.0
+					-60.935175,-62.938466,0003.0
+					-60.927402,-62.947421,0000.0
+					-60.927203,-62.948444,-0001.0
+					-60.926909,-62.955186,0001.0
+					-60.923074,-62.963414,0002.0
+					-60.720466,-62.990187,0036.0
+					-60.719797,-62.990378,0033.0
+					-60.720440,-62.991292,0029.0
+					-60.718428,-62.991752,0015.0
+					-60.719125,-62.991574,0033.0
+					-60.719215,-62.991581,0027.0
+					-60.719042,-62.991553,0028.0
+					-60.719352,-62.991519,0018.0
+					-60.921301,-62.997175,0005.0
+					-60.921190,-62.997117,0008.0
+					-60.920723,-62.997390,0003.0
+					-60.720328,-62.990736,0040.0
+					-60.720362,-62.991077,0040.0
+					-60.719298,-62.991477,0014.0
+					-60.719355,-62.991538,0029.0
+					-60.719071,-62.991514,0025.0
+					-60.720899,-62.993092,0033.0
+					-60.721441,-62.993122,0023.0
+					-60.723384,-62.993839,0026.0
+					-60.753227,-62.992720,-0003.0
+					-60.755503,-62.992718,0004.0
+					-60.765213,-62.991769,-0002.0
+					-60.806723,-62.977017,0007.0
+					-60.807998,-62.976838,0023.0
+					-60.810610,-62.975742,0000.0
+					-60.812984,-62.975078,-0004.0
+					-60.815214,-62.974724,0046.0
+					-60.816241,-62.974919,0024.0
+					-60.819510,-62.974225,0000.0
+					-60.818716,-62.973687,0002.0
+					-60.813020,-62.975681,0002.0
+					-60.811420,-62.976155,-0000.0
+					-60.809579,-62.976650,-0006.0
+					-60.804840,-62.978391,-0000.0
+					-60.813003,-62.982220,0004.0
+					-60.814597,-62.982203,0005.0
+					-60.815019,-62.982279,0003.0
+					-60.815326,-62.982733,0024.0
+					-60.814410,-62.985409,0001.0
+					-60.809021,-62.987224,-0005.0
+					-60.808370,-62.988359,0002.0
+					-60.807501,-62.988620,-0004.0
+					-60.806426,-62.988365,0001.0
+					-60.809620,-62.987767,-0010.0
+					-60.808128,-62.989031,-0010.0
+					-60.799917,-62.988620,-0013.0
+					-60.796945,-62.988348,0017.0
+					-60.799050,-62.988388,-0019.0
+					-60.797393,-62.988371,0003.0
+					-60.798094,-62.987880,-0006.0
+					-60.791646,-62.988654,0010.0
+					-60.722119,-62.989897,0033.0
+					-60.722153,-62.989935,0023.0
+					-60.720733,-62.990247,0031.0
+					-60.719311,-62.991250,0003.0
+					-60.719805,-62.991445,0045.0
+					-60.719490,-62.991568,0037.0
+					-60.719363,-62.991570,0038.0
+					-60.720114,-62.991149,0064.0
+					-60.807390,-62.963437,-0003.0
+					-60.805982,-62.961879,-0001.0
+					-60.806042,-62.962856,-0003.0
+					-60.807318,-62.963992,0001.0
+					-60.802423,-62.964504,0000.0
+					-60.805089,-62.965156,-0004.0
+					-60.806470,-62.966045,-0011.0
+					-60.807513,-62.967137,-0002.0
+					-60.807531,-62.969292,0000.0
+					-60.806092,-62.969892,0001.0
+					-60.804886,-62.970553,-0006.0
+					-60.803305,-62.971418,-0007.0
+					-60.806305,-62.972922,-0000.0
+					-60.806107,-62.973605,0003.0
+					-60.805416,-62.974005,0008.0
+					-60.804100,-62.974198,0000.0
+					-60.803529,-62.974714,-0003.0
+					-60.804146,-62.975533,0002.0
+					-60.725862,-62.990164,-0011.0
+					-60.725509,-62.989998,-0046.0
+					-60.726299,-62.990180,0007.0
+					-60.724916,-62.990112,-0036.0
+					-60.725918,-62.990288,0022.0
+					-60.724528,-62.990095,0019.0
+					-60.722101,-62.990086,-0004.0
+					-60.721755,-62.989988,0021.0
+					-60.720095,-62.990249,0020.0
+					-60.720426,-62.990806,0033.0
+					-60.720524,-62.991366,0066.0
+					-60.718657,-62.991624,0008.0
+					-60.718319,-62.991637,-0013.0
+					-60.719242,-62.991547,0039.0
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>

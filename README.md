@@ -1,2 +1,2 @@
-# PUCV Masters students
-Animal movement and mapping
+# PUCV-Masters
+Masters lectures at PUCV Valpo
