@@ -40,6 +40,7 @@ dt = d %>%
   dplyr::filter(Depth > 0)
 
 
+
 ##LECTURE 2: R and QGIS spatial basics----
 
 library(tidyverse)
