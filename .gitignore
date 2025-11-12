@@ -1,28 +1,19 @@
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
-data/learn to download/SST raw/oisst-avhrr-v02r01.20240101.nc
-data/learn to download/SST raw/oisst-avhrr-v02r01.20240102.nc
-data/learn to download/SST raw/oisst-avhrr-v02r01.20240103.nc
-data/learn to download/SST raw/oisst-avhrr-v02r01.20240104.nc
-data/learn to download/SST raw/oisst-avhrr-v02r01.20240105.nc
-data/learn to download/SST raw/oisst-avhrr-v02r01.20240106.nc
-data/learn to download/SST test/20240101
-data/learn to download/SST test/20240201
-data/QGIS baselayers/.DS_Store
-data/QGIS baselayers/add_coastline_high_res_polygon_v7.2.cpg
-data/QGIS baselayers/add_coastline_high_res_polygon_v7.2.dbf
-data/QGIS baselayers/add_coastline_high_res_polygon_v7.2.prj
-data/QGIS baselayers/add_coastline_high_res_polygon_v7.2.qpj
-data/QGIS baselayers/add_coastline_high_res_polygon_v7.2.shp
-data/QGIS baselayers/add_coastline_high_res_polygon_v7.2.shx
-data/QGIS baselayers/bathy.nc
-data/QGIS baselayers/IBCSO_v2_bed.nc
-data/QGIS baselayers/IBCSO_v2_bed.nc.aux.xml
-data/QGIS baselayers/SST raw/.DS_Store
-data/QGIS baselayers/SST raw/oisst-avhrr-v02r01.20240101.nc
-data/QGIS baselayers/SST raw/oisst-avhrr-v02r01.20240102.nc
-data/QGIS baselayers/SST raw/oisst-avhrr-v02r01.20240103.nc
-data/QGIS baselayers/SST raw/oisst-avhrr-v02r01.20240104.nc
-data/QGIS baselayers/SST raw/oisst-avhrr-v02r01.20240105.nc
+.Rproj.user/1789D53B/pcs/files-pane.pper
+.Rproj.user/1789D53B/pcs/source-pane.pper
+.Rproj.user/1789D53B/pcs/windowlayoutstate.pper
+.Rproj.user/1789D53B/pcs/workbench-pane.pper
+.Rproj.user/1789D53B/rmd-outputs
+.Rproj.user/1789D53B/saved_source_markers
+.Rproj.user/1789D53B/sources/prop/3109A7F8
+.Rproj.user/1789D53B/sources/prop/55B2340B
+.Rproj.user/1789D53B/sources/prop/B57F2CE5
+.Rproj.user/1789D53B/sources/prop/EF2034AA
+.Rproj.user/1789D53B/sources/prop/INDEX
+.Rproj.user/1789D53B/sources/session-a2068628/3BC5431F
+.Rproj.user/1789D53B/sources/session-a2068628/3BC5431F-contents
+.Rproj.user/1789D53B/sources/session-a2068628/96CEEC72-contents
+.Rproj.user/1789D53B/sources/session-a2068628/AA701843
+.Rproj.user/1789D53B/sources/session-a2068628/AA701843-contents
+.Rproj.user/1789D53B/sources/session-a2068628/lock_file
+.Rproj.user/shared/notebooks/patch-chunk-names
+.Rproj.user/shared/notebooks/paths
