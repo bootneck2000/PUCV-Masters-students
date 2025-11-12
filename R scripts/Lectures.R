@@ -11,7 +11,7 @@ library(terra)
 library(raster)
 library(lubridate)
 renv::snapshot()
-data = read_tsv("./data/KI-6_S1.txt",
+data = read_tsv("./data/Raw gps/KI-6_S1.txt",
                 col_names=(c("date", "lat", "lon", "blah", "blah", "blah", "blah", "blah"))) %>%
   dplyr::mutate(id = "KI-6") %>%
   dplyr::select(id, date, lon, lat)
